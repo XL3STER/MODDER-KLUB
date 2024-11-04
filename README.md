@@ -5,14 +5,14 @@ apt upgrade
 
 apt install python 
 
-git clone https://github.com/bohaydar/Dragon-tool.git
+git clone https://github.com/XL3STER/MODDER-KLUB.git
 
-cd Dragon-tool
+cd MODDER-KLUB
 
 chmod +x *
 
 python install.py
 
-python Dragon-Tool.py
+python MODDER-KLUB.py
 _________________________________________________________
-🇧🇷🇪🇦
+
