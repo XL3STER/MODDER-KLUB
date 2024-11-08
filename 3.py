@@ -152,15 +152,22 @@ elif oooo =='0' :
      print ('''thes tool by bo haydar All rights reserved Free Palestine
 
    _____________________________________________
-   |Youtube:https://youtube.com/@BO_HAYDAR_HK  |
-   |Tele:https://t.me/txrtm                    |
-   |Tele Team:https://t.me/+EHo65POl1yA2ZjA0   |
+   |Youtube:https://youtube.com/XlesterX  |
+   |discord:
+   https://discord.gg/vnrkCphem7                  |
+   |Epic demons Team   |
    |___________________________________________|
 ''')
 #####
 elif oooo =='99' :
      os.system('python H-Tool.py')
 elif oooo =="00" :
-     os.system("python Dragon-Tool.py")
+     os.system("python MODDER-KLUB.py")
 elif oooo =="" :
-     os.system("python Dragon-Tool.py")
+     os.system("python MODDER-KLUB.py")
+  os.system('mv getinfo $HOME')
+##bo_hyd_cat install
+elif oooo =='15' :
+     #print('install bo hyd cat in termux H-TOOL')
+     os.system('cd $HOME')
+     os.system('git clone https://github.com/boh
